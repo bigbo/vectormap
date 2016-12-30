@@ -11,7 +11,7 @@ Add CHINA Map
 ![Kibana Vector Map China](china_map.png)
 
 ### Requirements
-Kibana 4.3+
+Kibana 4.3+ , Not Support Kibana 5.x
 
 ### Installation steps
 1. Download and unpack [Kibana](https://www.elastic.co/downloads/kibana).
